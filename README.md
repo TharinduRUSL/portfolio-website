@@ -6,9 +6,6 @@
 
 This is my professional portfolio website, designed to showcase my journey as a Web Designer and Software Developer. The site features a clean, user-centric design with a focus on performance and responsiveness.
 
-## 🚀 Live Demo
-You can view the deployed version of my portfolio here:  
-**[👉 Insert Your Live Link Here, e.g., https://tharindu-portfolio.vercel.app]**
 
 ## ✨ Key Features
 *   **Fully Responsive:** Optimized for all screen sizes from mobile to large monitors.
