@@ -1,16 +1,37 @@
-# React + Vite
+# Modern Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Currently, two official plugins are available:
+This is my professional portfolio website, designed to showcase my journey as a Web Designer and Software Developer. The site features a clean, user-centric design with a focus on performance and responsiveness.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
+You can view the deployed version of my portfolio here:  
+**[👉 Insert Your Live Link Here, e.g., https://tharindu-portfolio.vercel.app]**
 
-## React Compiler
+## ✨ Key Features
+*   **Fully Responsive:** Optimized for all screen sizes from mobile to large monitors.
+*   **Modern UI/UX:** Clean, dark-themed (or light-themed) interface using Tailwind CSS.
+*   **Project Gallery:** A curated list of my technical projects and academic research.
+*   **Optimized Performance:** Lightning-fast load times thanks to Vite.
+*   **SEO Friendly:** Configured for better visibility on search engines.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Built With
+*   **React.js** - For building the component-based user interface.
+*   **Tailwind CSS** - For modern, utility-first styling.
+*   **Vite** - As the fast build tool and development server.
+*   **Lucide React** - For crisp, scalable icons.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+```text
+├── public/              # Static assets (favicon, etc.)
+├── src/
+│   ├── assets/          # Images and branding files
+│   ├── components/      # Reusable UI components (Navbar, ProjectCard, etc.)
+│   ├── data/            # Local data files for projects and skills
+│   ├── App.jsx          # Main application logic
+│   ├── index.css        # Tailwind directives and global styles
+│   └── main.jsx         # Entry point
+├── tailwind.config.js   # Custom Tailwind configurations
+└── package.json         # Project dependencies
